@@ -42,7 +42,7 @@ experience:
     company_logo: netease
     location: Guangzhou, China
     date_start: '2021-07-01'
-    date_end: '2021-9-10'
+    date_end: '2021-09-10'
     description: Developed documentation analysis software for departmental product planning tasks.
 
 design:
