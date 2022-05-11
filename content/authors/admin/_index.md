@@ -66,6 +66,6 @@ highlight_name: true
 
 Xuning Tan is a fourth year Bachelor of Advanced Computing (Honours) student at ANU, currently he is working with Dr.Kevlin Li with Homomorphic Encryption on Graphs, he is going to be an engineer at Netease Games on this July, and his research interests include cyber security, high performance computing and privacy preserving computing, etc.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
